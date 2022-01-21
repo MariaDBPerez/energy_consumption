@@ -10,3 +10,14 @@ ipython_config.py
 
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
+
+archive.zip
+prostate.data.txt
+TP_2_datset_mushrooms.csv
+training_1.ipynb
+training_2.ipynb
+training_3.ipynb
+winequality-red.csv
+winequality-white.csv
+2016-building-energy-benchmarking.csv.zip
+2015-building-energy-benchmarking.csv.zip
