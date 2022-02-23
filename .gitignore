@@ -32,9 +32,12 @@ correlation_matrix.png
 nan_values.png
 neighborhood.png
 property_type.png
+largest_property_use_type.png
+emissions_real_pred_without_ENERGYSTAR.png
+emissions_pred_without_ENERGYSTAR.png
+emissions_real_pred_ENERGYSTAR.png
+emissions_pred_ENERGYSTAR.png
 random_forest_model.png
-random_forest_model_energy_consumption.png
 random_forest_model_real_predicted.png
-random_forest_model_real_predicted_energy_consumption.png
 regresive_model.png
 regresive_model_real_predicted.png
